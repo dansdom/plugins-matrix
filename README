@@ -1,0 +1,1 @@
+this plugin will create and destroy a predefined matrix. There are several options for speed, direction and decay multipliers. It was originally inspired by the www.wooboard.com 404 page which Albert wrote. I then completely refactored and then turned it into a plugin. Here is the result. I will organise this code later when I get a chance.
