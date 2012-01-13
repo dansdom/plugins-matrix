@@ -1,7 +1,6 @@
 // Matrix jQuery plugin
 
-// TO DO:
-//
+// v 1.0 - basic functionality
 
 (function($){
 
